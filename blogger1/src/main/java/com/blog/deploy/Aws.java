@@ -6,4 +6,8 @@ public class Aws
     {
         System.out.println("Remote Database");
     }
+    public void springProfile()
+    {
+        
+    }
 }
